@@ -3,10 +3,10 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Fareen-Khan&theme=prussian&show_icons=true" alt="Fareen's Github Stats"></img>
 
 - 3rd year Software Engineering student @ Toronto Metropolitan University.
-- Currently learning more about web and software development
+- Currently learning about iOS development by creating an application
 
 ## Languages
-> JavaScript, Java, Python, HTML, CSS, C, C++, VHDL
+> JavaScript, Java, Python, HTML, CSS, C, C++, VHDL, SwiftUI, Swift
 
 ## Libraries/Frameworks
 > ReactNative, Express, NodeJS, Pygame, Boostrap, Jquery
