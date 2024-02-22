@@ -2,8 +2,10 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Fareen-Khan&theme=prussian&show_icons=true" alt="Fareen's Github Stats"></img>
 
-- 3rd year Software Engineering student @ Toronto Metropolitan University.
-- Currently learning about iOS development by creating an application
+- Working @ Environment and Climate Change Canada aka ECCC as a Software Developer
+- Currently handling iOS app development
+- You can find my projects @  [https://fareenkhan.vercel.app/](https://fareenkhan.vercel.app/)
+- Loving volleyball and combat sports atm 😁
 
 ## Languages
 > JavaScript, Java, Python, HTML, CSS, C, C++, VHDL, SwiftUI, Swift
