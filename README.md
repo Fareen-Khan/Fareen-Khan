@@ -1,17 +1,18 @@
 ## Hi, I'm Fareen 😄
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Fareen-Khan&theme=prussian&show_icons=true" alt="Fareen's Github Stats"></img>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Fareen-Khan&theme=prussian&show_icons=true&rank_icon=github" alt="Fareen's Github Stats"></img>
 
-- Working @ Environment and Climate Change Canada aka ECCC as a Software Developer
-- Currently handling iOS app development
+- Currently looking for new grad opportunities
+- Previously worked @ Environment and Climate Change Canada aka ECCC as a Software Developer
 - You can find my projects @  [https://fareenkhan.vercel.app/](https://fareenkhan.vercel.app/)
-- Loving volleyball and combat sports atm 😁
+
+<br/>
 
 ## Languages
-> JavaScript, Java, Python, HTML, CSS, C, C++, VHDL, SwiftUI, Swift
+> SwiftUI, Swift, JavaScript, TypeScript, Java, Python, HTML, CSS, C, C++, VHDL, Git
 
 ## Libraries/Frameworks
-> ReactNative, Express, NodeJS, Pygame, Boostrap, Jquery
+> React Native, Expo, Express, Node.js, Next.js, React, Tailwind, Docker, nRF Cloud
 
 ### Relevant Links:
 <a href="mailto:fareen.khan@ryerson.ca"><img src="logos/envelope.svg" height="40" width="50"/></a>
